@@ -52,6 +52,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlayerControls.cs" />
+     <Compile Include="Assets\Scripts\RepeatingBackground.cs" />
+     <Compile Include="Assets\Scripts\ScrollingObject.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/Users/petru/Documents/Unity Projects/Square Mustache/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
